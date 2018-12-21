@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Tour Guide</string>
+    <string name="category_Nellore">Nellore</string>
+    <string name="cateogory_warangal">Warangal</string>
+    <string name="category_kadapa">kadapa</string>
+    <string name="category_bangalore">Bangalore</string>
+    <string name="myTitle">myTitle</string>
+    <string name="mySubTitle">mySubTitle</string>
+    <string name="myDesc">myDesc</string>
+    <string name="myImg">myImg</string>
+
+    <string name="ontimitta_desc">According to folklore belief, the village received its name from two persons, namely Vontodu and Mittodu, who helped King Kampana. In return, the king named the village after them. Over a period of time, the village came to be known as Vontimitta.
+
+The site is renowned for the Sri Kodandarama Swami Temple dedicated to Lord Rama. This temple has idols of Lord Ram, Sita and Lakshmana, which have been made out of a single rock. A temple known as Sanjeevaraaya, dedicated to Lord Hanuman, is situated to the east of the temple.
+
+Sri Kondandarama Swami Temple houses two perennial pools known as the Ramatirtham and the Lakshmanatirtham. Some of the events from the epic Ramayana and the Mahabharata have been embellished in art form inside this temple.</string>
+    <string name="ontimitta_title">Sri Kodandarama Swami Temple</string>
+    <string name="ontimitta_subtitle">Ontimitta,Kadapa</string>
+    <string name="gandikota_title">Gandikota</string>
+    <string name="gandikota_subtitle">Gandikota,Kadapa</string>
+    <string name="gandikota_desc">Gandikota Fort is situated in the Gandikota Village that is near the Jammalamadugu Taluk. The fort is famous for the gorge appearing between the Erramalai Hills. It is believed to have been constructed during the 13th century and served a crucial role during the reign of the Vijayanagara, Chalukya, Qutub Shahi and the Kakatiya dynasties. The fort has the Madhavaswamy and the Ranganath Temples which are constructed in the Vijayanagara style.</string>
+    <string name="wild_sancutuary_title">Sri Venkateswara Wildlife Sanctuary</string>
+    <string name="wildsanctuary_subtitle">Chitvel,Kadapa</string>
+    <string name="wild_sanctuary_desc">Sri Venkateswara Wildlife Sanctuary is a famous National Park in the Cuddapah District, which has been named after Lord Venkateswara. It was established in 1989 and houses many wildlife species. The sanctuary also has the Gundalakona, Talakona and the Gunjana Waterfalls. One can spot varied animals like black buck, spotted deer, sloth bear, jungle fowl, flying lizards and many others.
+
+Avifauna of the sanctuary comprises more than 100 species of birds that include kingfishers, white bellied woodpecker and ashy crowned finch. Flora of the sanctuary, comprises more than 1,500 species of plants. Gymnosperm, terminalia pallida, tamba jalari and shorea talura are some of the plants seen in the Sri Venkateswara Wildlife Sanctuary.</string>
+    <string name="nlr_beach_title">Mypad Beach</string>
+    <string name="nlr_beach_subtitle">Nellore</string>
+    <string name="nlr_beach_description">Mypad Beach  is a spectacular beach with lush greenery and stunning landscape. The soft sands, clear water along with the picturesque coastline make the beach top the list of the beaches in Nellore. The vast greenery before your eyes is enchanting. The beach has everything about it perfect. It offers a serene atmosphere where you can unwind yourself. The sands are tempting to have a sunbath and the trees invite you to take a walk enjoying the breeze.</string>
+    <string name="nelapatu_title">Nellapattu Bird Sanctuary</string>
+    <string name="nelapattu_subtitle">Nellapattu,Nellore</string>
+    <string name="nelapattu_desc">Nellapattu Bird Sanctuary  is one of the most frequented tourist spots in Nellore. It attracts migratory birds from all parts of the world and you could find over 1500 pelicans here during migratory season. The rare species of birds seen here include pelicans, spoonbills, night herons, egrets, ducks and many more. Watch towers let you have a great view of the birds. The sanctuary houses a library, museum and auditorium.</string>
+    <string name="penchalakona_title">Penchalakona</string>
+    <string name="penchalakona_subtitle">Rapuru,Nellore</string>
+    <string name="penchalakona_desc">This is a sacred place for pilgrims.   Penchalakona  is situated 80 kms away from Nellore. The temple is dedicated to Lord Narasimha. The temple is situated on the top of Vedagiri Hills. The temple receives more importance from religious point of view as it is believed that the temple was built on the place where Lord Venkateswara had placed his feet.</string>
+    <string name="warangalfort_title">Warangal Fort</string>
+    <string name="warangal_subtitle">Warangal</string>
+    <string name="waranglafort_desc">Warangal Fort  belongs to the 13th century when it was constructed by King Ganapati Deva. The fort was intended to be his second capital. The exquisite carved pillars and arches add attraction to the fort. The fort houses a temple, which is dedicated to Swayambhudevi, Mother Earth. The fort being invincible was called the seat of power. The main fort consists of 45 towers. The entrance of the fort is built in South Indian architectural style. The fort is in ruins but still provides room for interesting study that aids in research of ancient history and sculptures.</string>
+    <string name="tpillertemple_title">Thousand Piller Temple</string>
+    <string name="tpillertemple_subtitle">Hanmakonda,Warangal</string>
+    <string name="tpillertemple_desc">Thousand Pillar Temple  belongs to the 12th century. It is located near Hanamkonda-Warangal highway. The construction displays the influence of Kakatiyan architectural style. The temple is dedicated to three gods namely Shiva, Surya and Vishnu. The temple earns the name owing to the thousand pillars that are uniquely adorned and carved. Rock cut elephants and the intricate stonework add beauty to the temple. Excellent sculptures and perforated screens need special mention.</string>
+    <string name="kakatiya_gardentitle">Kakatiya Rock Garden</string>
+    <string name="kakatiya_garden_subtitle">Waranggal</string>
+    <string name="kakatiya_garden_desc">Kakatiya Rock Garden  is situated near the Fort temple. It is one of the popular tourist attractions in Warangal. Rock statues of various animals such as lions, deer and antelopes are found here. The garden is artistically maintained with the rocks and plants arranged decoratively. The artificial waterfalls in the rock garden is beautiful. Children love the playgrounds here.</string>
+    <string name="botanical_title">Lal BAgh Botanical Gardens</string>
+    <string name="botanical_subtitle">Bangalore</string>
+    <string name="botanical_desc">This botanical garden is one of the most beautiful botanical gardens you could find in India. Constructed by Haider Ali, it was later modified by Tipu Sultan. The Glass House in the gardens was inspired by the London Crystal Palace. Spread across a sprawling 240 acres of land, the garden has above 1800 species of plants, herbs and trees. The lawn clock in the garden is the first of its kind in India.</string>
+    <string name="Bnglr_palace_title">Bangalore Palace</string>
+    <string name="bnglrpalace_subtitle">Bangalore</string>
+    <string name="bnglrpalace_desc">Bangalore Palace  was constructed by Chamaraja Wodeyar in the year 1884 and he had his inspiration from England’s Windsor Castle. Located at city’s center, the Tudor style construction has Gothic windows, woodcarvings and turrets, which stand proof of the stunning architecture during the period. The 430-acre land that holds the palace has beautiful gardens. The palace is now used to conduct exhibitions and concerts.</string>
+    <string name="nandhihills_title">Nandi Hills</string>
+    <string name="nandihills_subtitle">Bangalore</string>
+    <string name="nandihills_desc">Nandi Hills  is a perfect location to feel one with nature. Located 60 kms away from Bangalore, it is one of   the hill stations near Bangalore  with the solid monolithic granite mass that offers the best view. Rivers Palar and Arkavathi originate from here. The hill was named after the renowned Nandi temple, which is situated at the top of the hill. It is situated 1478 meters above sea level. The climate is pleasant and hence any time is the right time to visit the place. Some of the tourist attractions here include Amruth Sarovar, Tippu’s Summer Palace and Fort, Horse Way, origins of Palar and Arkavathi rivers, Yoga Nandeeshwara Temple and Tippu Drop. You can find a playground for children here with excellent facilities to enhance the spirit of children.</string>
+    <string name="sample_text">Sample Text</string>
+    <string name="content_desc_item_img">Limited height image for list of items</string>
+    <string name="content_desc_place_img">Full height for individual view (more information on item)</string>
+    <string name="string_i_need">STRING_I_NEED</string>
+    <string name="place_info">Information</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

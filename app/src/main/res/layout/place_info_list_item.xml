@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#CCFF90"
+    android:orientation="vertical"
+    android:padding="@dimen/layout_and_padding">
+
+    <android.support.v7.widget.CardView xmlns:card_view="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/place_info_card_view"
+        style="@style/cardview_style"
+        card_view:cardBackgroundColor="@color/white_background"
+        card_view:cardElevation="@dimen/content_padding">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#000000"
+            android:padding="@dimen/layout_and_padding">
+
+            <ImageView
+                android:id="@+id/myImage"
+                android:layout_width="354dp"
+                android:layout_height="199dp"
+                android:layout_alignParentTop="true"
+                android:contentDescription="@string/content_desc_place_img"
+                android:scaleType="centerCrop"
+                android:src="@drawable/forest" />
+
+            <TextView
+                android:id="@+id/listItemName"
+                style="@style/ListTitleStyleBold"
+                android:text="@string/sample_text"
+                android:textColor="@color/gray_background" />
+
+            <TextView
+                android:id="@+id/listItemDesc"
+                style="@style/ListDescStyle"
+                android:text="@string/sample_text"
+                android:textColor="@color/gray_background" />
+
+        </RelativeLayout>
+
+    </android.support.v7.widget.CardView>
+
+</LinearLayout>
